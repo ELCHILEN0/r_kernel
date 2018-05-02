@@ -1,0 +1,14 @@
+{
+    "llvm-target": "aarch64-unknown-elf",
+    "data-layout": "e-m:e-i8:8:32-i16:16:32-i64:64-i128:128-n32:64-S128",
+    "linker-flavor": "gcc",
+    "target-endian": "little",
+    "target-family": "unix",
+    "target-c-int-width": "32",
+    "target-pointer-width": "64",
+    "max-atomic-width": 128,
+    "vendor": "unknown",
+    "arch": "aarch64",
+    "os": "none",
+    "disable-redzone": true
+  }
